@@ -1,2 +1,4 @@
 #ignore config.py which had API
 config.py
+# too large file, ignore
+Resources/ratings.csv
